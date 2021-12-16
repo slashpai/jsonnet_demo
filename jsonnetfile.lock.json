@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/prometheus-operator/prometheus-operator.git",
+          "subdir": ""
+        }
+      },
+      "version": "5f47f12d5943ad575829f48f118382162e2004a2",
+      "sum": "BzvJrYO4rCm+7Xpj8AlaCHJEjmVob8EyOgr6SAgFQfI="
+    }
+  ],
+  "legacyImports": false
+}
